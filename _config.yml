@@ -1,0 +1,9 @@
+title: FreezeDryerTracker
+description: Support and privacy information for FreezeDryerTracker on iPhone, iPad, and Mac.
+url: https://emkinter.github.io
+baseurl: /FreezeDryerTrackerApp
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
