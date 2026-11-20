@@ -13,7 +13,7 @@ Keep your freeze-drying routine organized with one place for your dryers, batche
 
 **For iPhone, iPad, and Mac · iCloud sync · Shared family datasets**
 
-[Explore the features](#make-every-batch-easier-to-follow) · [Get started](#your-first-batch-in-three-steps) · [Get help](support.md)
+[Explore the features](#make-every-batch-easier-to-follow) · [Get started](#your-first-batch-in-three-steps) · [What’s new in 1.1](release-notes.md) · [Get help](support.md)
 
 ## A closer look
 
