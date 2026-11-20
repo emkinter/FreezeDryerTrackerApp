@@ -14,7 +14,7 @@ Keep your freeze-drying routine organized with one place for your dryers, batche
 
 | Follow your batch | Update one tray at a time | Set up your dryer |
 | --- | --- | --- |
-| <img src="images/run-details.png" alt="iPad run details showing an autumn fruit batch, time log, and tray measurements" width="260"> | <img src="images/tray-editor.png" alt="Individual tray editor with strawberry contents, empty and loaded weights, and next-tray navigation" width="260"> | <img src="images/freeze-dryer.png" alt="Freeze dryer setup with manufacturer, model selection, and default tray weight" width="260"> |
+| <img src="images/run-details.png" alt="iPad run details for the Orchard Strawberries batch with its Time Log and tray measurements" width="260"> | <img src="images/tray-editor.png" alt="Individual tray editor with strawberry slices, tray weight, and next-tray navigation" width="260"> | <img src="images/freeze-dryer.png" alt="Freeze dryer setup with manufacturer, model selection, and default tray weight" width="260"> |
 
 ## Make every batch easier to follow
 
